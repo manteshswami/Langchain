@@ -2,3 +2,4 @@ langchain
 langchain-groq
 dotenv
 langchain-google-genai
+langgraph
